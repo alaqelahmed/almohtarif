@@ -21,6 +21,15 @@
 <li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
 <li>إصلاحات اخرى</li>
 
+<li>New Base Updated to 2.19.17</li>
+
+<li>Added New Emojis</li>
+<li>Added You can call Participants in groups</li>
+<li>Added Reply Privately when select message in groups</li>
+<li>Fixed Added Stickers From Google Play Apps</li>
+<li>Fixed Crash when search in themes</li>
+<li>Many More Fixes</li>
+
 
 ","url":"http://www.alaqel2ahmed.blogspot.com/2018/05/whatsappye.html"
 }
