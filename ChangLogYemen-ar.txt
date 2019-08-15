@@ -1,36 +1,13 @@
-﻿{"version_code":451210,"content":"
-<p>تحديث جديد الأصدار الثامن New update version 8</p>
+{"version_code":451217,"content":"
+<p>تحديث 10.00 (Update)</p>
+<p>13/08/2019</p>
 
-<li>تم بعون الله اطلاق التحديث الجديد</li>
-<li>يحمل مميزات كثيرة</li>
-<li>ملاحظة مهمة</li>
-<li>لاتقم بإزالة تثبيت النسخة السابقة كل ماعليك هو تثبيت الاصدار الجديد فوقها مباشرتاً حتى لاتفقد شئ من محادثاتك</li>
-<li>التحديث لنسخة الماركت 2.19.17</li>
-<li>إضافة الفيسات الجديدة/li>
-<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
-<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
-<li>إضافة قسم من الحالات الكتابية فيه اقسام كثيرة (يعمل بدون نت)</li>
-<li>تمديد فترة صلاحية الواتساب الى عام 2020</li>
-<li>أصبح بإمكانك إضافة الملصقات من اي تطبيق خاص بالملصقات في سوق بلاي</li>
-<li>زيادة حجم الحالة الى اكثر من ساعة</li>
-<li>شكل جديد لاضافات العاقل وخيار القروبات</li>
-<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
-<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
-<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
-<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
-<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
-<li>إصلاحات اخرى</li>
+<li>تم تمديد النسخه 3 اشهر من نشرها</li>
+<li>حل مشكلة الايقاف الاجباري عند دخول اي محادثه</li>
 
-<li>New Base Updated to 2.19.17</li>
-
-<li>Added New Emojis</li>
-<li>Added You can call Participants in groups</li>
-<li>Added Reply Privately when select message in groups</li>
-<li>Fixed Added Stickers From Google Play Apps</li>
-<li>Fixed Crash when search in themes</li>
+<li> Extended version 3 months</li>
 <li>Many More Fixes</li>
+<li> Fixed all problems</li>
 
-
-","url":"http://www.alaqel2ahmed.blogspot.com/2018/05/whatsappye.html"
+","url":"http://www.alaqel2ahmed.blogspot.com/p/whatsapp-alaqel-4copys.html"
 }
-
